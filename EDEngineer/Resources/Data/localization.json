@@ -3960,7 +3960,7 @@
     },
     "Chemical": {
       "es": "Químico",
-      "pt": null,
+      "pt": "Químico",
       "de": "Chemikalien",
       "fr": "Produits chimiques",
       "ru": "Химикаты",
@@ -3978,7 +3978,7 @@
     },
     "Heat": {
       "es": "Calor",
-      "pt": null,
+      "pt": "Calor",
       "de": "Hitze",
       "fr": "Chaleur",
       "ru": "Теплообмен",
@@ -3987,7 +3987,7 @@
     },
     "Conductive": {
       "es": "Conductivo",
-      "pt": null,
+      "pt": "Condutivo",
       "de": "Leiter",
       "fr": "Conducteurs",
       "ru": "Проводники",
@@ -3996,7 +3996,7 @@
     },
     "Capacitors": {
       "es": "Condensadores",
-      "pt": null,
+      "pt": "Capacitores",
       "de": "Kondensatoren",
       "fr": "Condensateurs",
       "ru": "Конденсаторы",
@@ -4014,7 +4014,7 @@
     },
     "Composite": {
       "es": "Compuesto",
-      "pt": null,
+      "pt": "Composto",
       "de": "Komposite",
       "fr": "Composites",
       "ru": "Композиты",
@@ -4023,7 +4023,7 @@
     },
     "Crystals": {
       "es": "Cristales",
-      "pt": null,
+      "pt": "Cristais",
       "de": "Kristalle",
       "fr": "Cristaux",
       "ru": "Кристаллы",
@@ -4167,7 +4167,7 @@
     },
     "Guardian Ruins": {
       "es": "Ruinas Guardianes",
-      "pt": null,
+      "pt": "Ruínas Guardian",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4176,7 +4176,7 @@
     },
     "Guardian Ruins (Active)": {
       "es": "Ruinas Guardianes (Activas)",
-      "pt": null,
+      "pt": "Ruínas Guardian (Ativa)",
       "de": null,
       "fr": null,
       "ru": null,
@@ -4311,7 +4311,7 @@
     },
     "Thermal Vent": {
       "es": "Respiradero Térmico",
-      "pt": null,
+      "pt": "Ventoinha Térmica",
       "de": "Thermische Entlastung",
       "fr": null,
       "ru": "Теплоотдача",
@@ -4329,7 +4329,7 @@
     },
     "Stripped Down": {
       "es": "Despojado",
-      "pt": null,
+      "pt": "Leve",
       "de": "Reduktion",
       "fr": null,
       "ru": "Урезанный вариант",
